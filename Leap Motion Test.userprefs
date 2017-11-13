@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\LeapMotion\Modules\InteractionEngine\Scripts\LeapMoveObjects.cs">
+    <Files>
+      <File FileName="Assets\LeapMotion\Modules\InteractionEngine\Scripts\InteractionBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Teest.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeapMotion\Modules\InteractionEngine\Scripts\UI\InteractionButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeapMotion\Modules\InteractionEngine\Scripts\LeapMoveObjects.cs" Line="202" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
